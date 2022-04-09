@@ -1,2 +1,1 @@
-# tinDog-clone
-from Web Dev Course
+TinDog Starting Files
